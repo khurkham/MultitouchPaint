@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TaiPaint = ၸၼ်ႁၢင်ႈ</string>
+    <string name="exit_application">ၸွင်ႇတေဢွၵ်ႇႁိုဝ် ?</string>
+    <string name="new_file">ပိုတ်ႇဝၢင်ၸႄႈမႂ်ႇ</string>
+    <string name="open">လိူၵ်ႈၶႅပ်းႁၢင်ႈ</string>
+    <string name="save">သိမ်း</string>
+    <string name="cant_save_image">ဢမ်ႇၸၢင်ႈသိမ်းၶႅပ်းႁၢင်ႈလႆႈ</string>
+    <string name="failed_to_save_image">ဢမ်ႇၸၢင်ႈသိမ်းၶႅပ်းႁၢင်ႈလႆႈ</string>
+    <string name="image_successfully_saved">သိမ်းၶႅမ်းႁၢင်ႈၵႂႃႇတီႈ folder Pictures ယဝ်ႉၶႃႈ</string>
+    <string name="failed_to_load_image">ဢမ်ႇၸၢင်ႈလူတ်ႇၶႅပ်းႁၢင်ႈလႆႈ</string>
+    <string name="please_wait">ၶႅၼ်းတေႃႈပႂ်ႉၵမ်ႉၼုိင်ႈ…</string>
+    <string name="unknown_error">Unknown error</string>
+</resources>

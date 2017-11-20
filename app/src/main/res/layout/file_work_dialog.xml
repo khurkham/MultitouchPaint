@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <LinearLayout
+        android:layout_width="@dimen/file_work_dialog_width"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <com.khurkham.taipaint.CustomTextView
+            app:font="arial.ttf"
+            android:id="@+id/file_work_dialog_new_file"
+            style="@style/FileWorkDialogButton"
+            android:text="@string/new_file"
+            />
+
+        <com.khurkham.taipaint.CustomTextView
+            android:id="@+id/file_work_dialog_open"
+            style="@style/FileWorkDialogButton"
+            android:text="@string/open"
+            app:font="arial.ttf"
+            />
+
+        <com.khurkham.taipaint.CustomTextView
+            android:id="@+id/file_work_dialog_save"
+            style="@style/FileWorkDialogButton"
+            android:text="@string/save"
+            app:font="arial.ttf"
+            />
+
+    </LinearLayout>
+</FrameLayout>
